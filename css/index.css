@@ -1742,7 +1742,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: I.Ming, ZhiyiSerif, 'Hiragino Mincho ProN';
+  font-family: Noto Serif SC, 'Hiragino Mincho ProN';
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
   scroll-behavior: smooth;
@@ -1861,7 +1861,7 @@ a:hover {
 .site-name,
 #aside-content .author-info-name,
 #aside-content .author-info-description {
-  font-family: Titillium Web, I.Ming, ZhiyiSerif, 'Hiragino Mincho ProN';
+  font-family: Titillium Web, Noto Serif SC, 'Hiragino Mincho ProN';
 }
 .text-center {
   text-align: center;
